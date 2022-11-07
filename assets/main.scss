@@ -277,6 +277,8 @@ footer {
     margin: 0 auto;
 
     .duvidas-img {
+        position: relative;
+         z-index: 998;
         img {
             margin: 0 auto;
             border-radius: 25px 25px 0 0;
@@ -286,7 +288,7 @@ footer {
 
     .duvidas-text {
         max-width: 500px;
-        
+
         position: relative;
         z-index: 999;
 
