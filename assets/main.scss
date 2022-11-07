@@ -286,6 +286,10 @@ footer {
 
     .duvidas-text {
         max-width: 500px;
+        
+        position: relative;
+        z-index: 999;
+
         margin: 0 auto;
         padding: 1rem 2rem;
 
